@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="35px" height="15px" viewBox="0 0 35 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="58.0810547%" x2="0%" y2="58.0810547%" id="linearGradient-1">
+            <stop stop-color="#B68F2B" offset="0%"></stop>
+            <stop stop-color="#DECE5D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="35" height="15" rx="1"></rect>
+            <text id="NEW" font-family="Roboto-Bold, Roboto" font-size="10" font-weight="bold" fill="#FFFFFF">
+                <tspan x="7" y="11">NEW</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

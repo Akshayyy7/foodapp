@@ -1,0 +1,170 @@
+
+a{
+text-decoration: none;
+}
+body {
+font-family: Arial;
+background-color: #FF6347;
+padding: 50px;
+}
+
+.sub{margin-top:20px;}
+
+.stu{
+margin: auto;
+max-width: 70%;}
+
+
+
+.login {
+margin: 20px auto;
+width: 500px;
+}
+.login-screen {
+padding: 20px;
+border-radius: 5px
+}
+
+.app-title {
+text-align: center;
+color: #777;
+}
+
+.login-form {
+text-align: center;
+}
+.control-group {
+margin-bottom: 10px;
+}
+
+input {
+text-align: center;
+background-color: #ECF0F1;
+border: 2px solid transparent;
+border-radius: 3px;
+font-size: 16px;
+font-weight: 200;
+padding: 10px 0;
+width: 250px;
+transition: border .5s;
+}
+
+input:focus {
+border: 2px solid #3498DB;
+box-shadow: none;
+}
+
+.btn {
+  border: 2px solid transparent;
+  background: #3498DB;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 25px;
+  padding: 10px 0;
+  text-decoration: none;
+  text-shadow: none;
+  border-radius: 3px;
+  box-shadow: none;
+  transition: 0.25s;
+  display: block;
+  width: 250px;
+  margin: 0 auto;
+}
+
+.btn:hover {
+  background-color: #FF6347;
+}
+
+.login-link {
+  font-size: 12px;
+  color: #444;
+  display: block;
+	margin-top: 12px;
+}
+	
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+  .center {
+    margin: aut;
+    width: 60%;
+    padding: 30px;
+}
+.cente {
+    margin : auto;
+    
+    background-color: blue;
+    padding: 10px;
+    font-family: verdana;
+    text-align:center;
+    color : white;
+}
+.button{
+background-color: yellow; color: white;
+}
+.roww{
+padding: 20px;
+}
+.w{
+margin:50px;
+}
+.kat{
+margin-left:500px;
+}
+.xaa{
+height: 50%;
+width: 100%;
+}
+.xa{
+height: 50%;
+width: 5%;
+}
+.hi {
+
+	
+	padding : 20px;
+	margin : auto;
+    padding: 10px;
+    font-family: verdana;
+    text-align:center;
+    color : white;
+	background-color : blue;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 400px;
+	margin-right: 400px;
+    
+}
+
+textarea{
+	background-color: white ;
+	width: 550px;
+	min-height: 100px;
+}
+
+
